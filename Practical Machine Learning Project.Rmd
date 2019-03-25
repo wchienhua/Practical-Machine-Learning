@@ -3,8 +3,9 @@ title: 'Practical Machine Learning Project : Prediction Assignment Writeup'
 author: "Chien-Hua Wang"
 date: "March 23, 2019"
 output:
-  word_document: default
-  html_document: default
+  html_document:
+    keep_md: yes
+
 ---
 
 ```{r setup, include=FALSE}
